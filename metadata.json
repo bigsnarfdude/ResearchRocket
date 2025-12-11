@@ -1,0 +1,5 @@
+{
+  "name": "ResearchRocket",
+  "description": "A research tool for exploring 17000+ BIRS math lectures and papers, enhanced with Gemini intelligence for summarizing and explaining complex mathematical concepts.",
+  "requestFramePermissions": []
+}
